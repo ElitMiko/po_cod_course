@@ -58,7 +58,7 @@
 ```
 
 Пример графического ресурса:
-![Image](https://github.com/StupidMoth/UnderTheGravestone/blob..)
+![Image](https://i.ytimg.com/vi/w2j4nlydTcQ/maxresdefault.jpg)
 
 ## На какой стадии разработки находится проект?
 Завершен.
